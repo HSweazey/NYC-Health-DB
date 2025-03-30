@@ -1,7 +1,7 @@
 # NYC-Health-DB
 SQL Database using New York City restaurant health inspection data.
 
-You can download the csv file [HERE](https://drive.google.com/file/d/1LZWwbZvh1obqXPUoYkYHWjDnxWtrbHWk/view?usp=sharing)
+You can download the csv file for the data/loaded/ folder [HERE](https://drive.google.com/file/d/1LZWwbZvh1obqXPUoYkYHWjDnxWtrbHWk/view?usp=sharing)
 
 Fields include:
 - **cuisine_id:** Generated number corresponding with type of cuisine served
