@@ -1,4 +1,4 @@
-# NYC-Health-DB
+# NYC Health Inspection SQL Databse
 SQL Database using New York City restaurant health inspection data.
 
 You can download the csv file for the data/loaded/ folder [HERE](https://drive.google.com/file/d/1LZWwbZvh1obqXPUoYkYHWjDnxWtrbHWk/view?usp=sharing)
